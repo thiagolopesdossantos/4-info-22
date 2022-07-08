@@ -104,6 +104,9 @@
 					<li>
 						<a href="?dir=3_array&file=1_array_">01</a>
 					</li>
+					<li>
+						<a href="?dir=3_array&file=2_associativo">02</a>
+					</li>
 				</ul>
 		</div>
 		<?php } ?>
